@@ -1,5 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Sorenson_Project
 
+This project is a site that describes my three dogs with photos and a fun fact about each of them.
+It is intended to be simple cute and fun. 
+I wanted something that I could look back on and understand easily how I built it. 
+
+## Below are the directions for create react app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
